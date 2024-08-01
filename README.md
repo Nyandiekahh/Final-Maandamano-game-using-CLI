@@ -1,3 +1,4 @@
+![alt text](image.png)
 # Nairobi Police and Citizens Protests Adventure
 
 Welcome to the Nairobi Police and Citizens Protests Adventure! This immersive text-based simulation game puts you in the shoes of a police officer in Nairobi. Your mission is to manage resources, respond to various events, and make critical decisions while balancing public support, personnel morale, and ethical considerations.
