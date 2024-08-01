@@ -42,7 +42,7 @@ To play Nairobi Police and Citizens Protests Adventure, follow these steps to se
 Clone the game's repository from GitHub:
 
 ```bash
-git clone https://github.com/yourusername/nairobi-police-game.git
+git clone git@github.com:Nyandiekahh/Final-Maandamano-game-using-CLI.git
 cd nairobi-police-game
 ```
 
